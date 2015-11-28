@@ -3,3 +3,6 @@ This will initiate the git system to track changes and writing metadata when a c
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It offers a temporary tracking space for files that are potentially used for commit. This allows separation of files for executing a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area is a temporary repository to include all the relevant files that are associated with the logical change 

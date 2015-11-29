@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+To push production quality code for team collaboration as well as fetching team modified code to local computer.
+

@@ -4,3 +4,11 @@ To push production quality code for team collaboration as well as fetching team 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 To avoid Git automatically overwrite changes currently being worked on in the local directory.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork is used when you do not have permission from the original author but still want to include own modification to code. Any change to the fork will not affect the original code. It is also a purely Github feature.
+
+Clone is used to transfer between own repository either at Github to local directory or within different directory in local PC. All commits and history will be cloned.
+
+Branch is used to allow modification within local environment without impacting on the master production code. This is useful for individual to test out new feature.
+

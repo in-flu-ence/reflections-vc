@@ -12,3 +12,6 @@ To try out new feature without affecting the existing production version.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We included changes from both branches in a systematic way as well as keeping information about its parents prior to the merge. A good way to understand the changes made in the overall process for bug fix due to merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git helps to identify obvious changes to code that will be included in the merge and highlight only areas of conflicts. This quicken the merge process. 

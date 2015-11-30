@@ -18,3 +18,6 @@ This allows including changes from collaborators while one is not online.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would need the files to be in different folders of a shared drive (branching) and using comparing software to ensure codes do not have conflicts. Git/Github allows easier version control between collaborators. However, it needs discipline to ensure a good branch network flow is maintained in order not to mess up with the master chain.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When you want to try someone experimental and would like to get feedback from collaborator before implementing that into the main master branch which is in production. Going directly to master is ok if it is a short code and by an individual. This allows quick implementation for production. However, branching and doing a pull request would ensure that the code is checked and agreed by all collaborators before going live.
+

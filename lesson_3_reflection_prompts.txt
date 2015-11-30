@@ -12,3 +12,6 @@ Clone is used to transfer between own repository either at Github to local direc
 
 Branch is used to allow modification within local environment without impacting on the master production code. This is useful for individual to test out new feature.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+This allows including changes from collaborators while one is not online.
+

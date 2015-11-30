@@ -15,3 +15,6 @@ Branch is used to allow modification within local environment without impacting 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 This allows including changes from collaborators while one is not online.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would need the files to be in different folders of a shared drive (branching) and using comparing software to ensure codes do not have conflicts. Git/Github allows easier version control between collaborators. However, it needs discipline to ensure a good branch network flow is maintained in order not to mess up with the master chain.
+
